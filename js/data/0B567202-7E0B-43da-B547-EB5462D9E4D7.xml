@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("3.6:1", "", "Diagrama de clases detallado", "EARoot/EA3/EA6/EA340.htm", "175.png", "28", "0", "", "Logical diagram0","{8DD3C3BB-CFDF-4aa8-94BC-4D35F1AE0F83}");
+tocTab[tocTab.length] = new Array("3.6:2", "", "almacen", "EARoot/EA3/EA6/EA342.htm", "5.png", "296", "0", "", "Class0","{182695F4-73A7-426e-BFB3-61687986915F}");
+tocTab[tocTab.length] = new Array("3.6:3", "", "cliente", "EARoot/EA3/EA6/EA344.htm", "5.png", "298", "0", "", "Class0","{481EF314-7D74-48aa-A7F7-AD067F57DE09}");
+tocTab[tocTab.length] = new Array("3.6:4", "", "Compra", "EARoot/EA3/EA6/EA345.htm", "5.png", "294", "0", "", "Class0","{3DCE6DB4-3D14-4bc9-A668-9AC3BEDAA2AB}");
+tocTab[tocTab.length] = new Array("3.6:5", "", "detalle_compra", "EARoot/EA3/EA6/EA346.htm", "5.png", "301", "0", "", "Class0","{D20A8778-AA8A-4dc5-AC9E-CBD75CCF3539}");
+tocTab[tocTab.length] = new Array("3.6:6", "", "detalle_venta", "EARoot/EA3/EA6/EA347.htm", "5.png", "293", "0", "", "Class0","{F21F2171-A779-4e70-93D0-4DCCB47317AC}");
+tocTab[tocTab.length] = new Array("3.6:7", "", "Django_user", "EARoot/EA3/EA6/EA348.htm", "5.png", "300", "0", "", "Class0","{BDB7548A-7EC9-491c-8925-79D277BF97B5}");
+tocTab[tocTab.length] = new Array("3.6:8", "", "productos", "EARoot/EA3/EA6/EA349.htm", "5.png", "267", "0", "", "Class0","{C40EF612-000E-4c06-927A-D938B285C8A2}");
+tocTab[tocTab.length] = new Array("3.6:9", "", "proveedor", "EARoot/EA3/EA6/EA350.htm", "5.png", "299", "0", "", "Class0","{1BBE64DB-ADDE-46fd-9F1F-3FC20848A646}");
+tocTab[tocTab.length] = new Array("3.6:10", "", "tipo_documento", "EARoot/EA3/EA6/EA351.htm", "5.png", "297", "0", "", "Class0","{B108135F-0DB4-4240-880A-8D864B9D009F}");
+tocTab[tocTab.length] = new Array("3.6:11", "", "Venta", "EARoot/EA3/EA6/EA352.htm", "5.png", "292", "0", "", "Class0","{EE02FCEA-0D17-4f8c-8E20-BF1BFDDA5CA0}");
+tocTab[tocTab.length] = new Array("3.6:12", "", "Persona", "EARoot/EA3/EA6/EA354.htm", "5.png", "154", "0", "", "Class0","{82B07B9A-B1D5-48d6-8077-5FD1AB6C1AAA}");
+tocTab[tocTab.length] = new Array("3.6.1", "", "almacen", "EARoot/EA3/EA6/EA343.htm", "4.png", "", "", "{FA921AA0-3DB6-4b01-9480-F83324C12D9A}", "Package");
+tocTab[tocTab.length] = new Array("3.6.2", "", "almacen", "", "4.png", "", "", "{FA921AA0-3DB6-4b01-9480-F83324C12D9A}", "Package");

@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Nota</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<span class="ObjectTitle">Nota  : public   nota</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">30/09/2006 4:49:00 p. m.</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">30/09/2006 4:50:06 p. m.</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Fácil</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{80CD296C-B35E-4403-BF57-D5EE75F22E99}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="EA105.htm">Revisión de diseño preliminar</a></td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">La sesión de revisión de diseño preliminar (The Preliminary Design Review (PDR)) ayuda a asegurarse que los diagramas de robustez, el modelo de dominio y el texto de los casos de uso todos coinciden entre ellos.&#160; &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Esta revisión es la puerta entre el diseño preliminar y los pasos de diseño detallados, para cada caso de uso. &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Aquí están nuestras 10 mejores guías para la PDR.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Describimos las mismas en más detalle en el capitulo 6 del Modelado de objetos dirigido por casos de uso - Teoría y practica.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;10. 	Para cada caso de uso , asegúrese de que el texto de caso de uso coincide con el diagrama de robustez, usando la prueba de resaltar.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;9. 	Asegúrese de que todas las entidades en todos los diagramas de robustez aparecen dentro del modelo de dominio actualizado. &lt;br /&gt;&lt;/p&gt;&lt;p&gt;8. 	Asegúrese de que puede localizar el flujo de datos entre las clases de entidad y las pantallas. &lt;br /&gt;&lt;/p&gt;&lt;p&gt;7. 	No olvide los cursos alternativos, y no olvide escribir comportamiento para cada uno de ellos cuando los encuentre. &lt;br /&gt;&lt;/p&gt;&lt;p&gt;6. 	Asegúrese de que cada caso de uso cubre los dos lados de la conversación entre el usuario y el sistema. &lt;br /&gt;&lt;/p&gt;&lt;p&gt;5. 	Asegúrese que no ha violado las reglas de sintaxis para el análisis de robustez.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;4. 	Asegúrese de que esta revisión incluye personas no técnicas (cliente, comercialización, etc) y técnicos (programadores). &lt;br /&gt;&lt;/p&gt;&lt;p&gt;3. 	Asegúrese de que sus casos de uso están 1) en el contexto del modelo de objetos y 2)en el contexto de la GUI. &lt;br /&gt;&lt;/p&gt;&lt;p&gt;2. 	Asegúrese de que los diagramas de robustez (y el texto de caso de uso correspondiente) no intenta mostrar el mismo nivel de detalle como se mostrará en los diagramas de secuencia. &lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. 	Proceda con nuestros &#8220;6 pasos fáciles&#8221; para obtener un diseño preliminar mejor ( vea capitulo 6).&lt;br /&gt;&lt;/p&gt;</div>
+
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

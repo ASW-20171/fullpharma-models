@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("2.2.4:1", "", "Codificación y pruebas", "EARoot/EA2/EA2/EA4/EA197.htm", "21.png", "106", "0", "", "Activity0","{C99B1666-842F-4d2d-BB04-A33394959248}");
+tocTab[tocTab.length] = new Array("2.2.4:2", "", "Generar las clases del dominio", "EARoot/EA2/EA2/EA4/EA198.htm", "21.png", "108", "0", "", "Activity0","{B44F6F89-8C7C-4dae-95FD-CD6584D1CD0C}");
+tocTab[tocTab.length] = new Array("2.2.4:3", "", "Para cada controlador en el diagrama de robustez...", "EARoot/EA2/EA2/EA4/EA199.htm", "109.png", "105", "0", "", "ExpansionRegion0","{1A0D6D4A-5EBF-4c42-B14B-B42A15A7F409}");
+tocTab[tocTab.length] = new Array("2.2.4:4", "", "Realizar pruebas del sistema y de aceptación de usuario", "EARoot/EA2/EA2/EA4/EA200.htm", "21.png", "104", "0", "", "Activity0","{D87E295A-8BEB-4763-AA64-E90B4685278B}");
+tocTab[tocTab.length] = new Array("2.2.4:5", "", "Revisión de código y actualización del modelo", "EARoot/EA2/EA2/EA4/EA201.htm", "21.png", "102", "0", "", "Activity0","{AEED7018-039C-4899-A985-06AD50075D1E}");
+tocTab[tocTab.length] = new Array("2.2.4:6", "", "Actividad1", "EARoot/EA2/EA2/EA4/EA202.htm", "21.png", "101", "105", "", "Activity0","{1374D18D-D327-4b68-9EFD-657B7D50CC7C}");
+tocTab[tocTab.length] = new Array("2.2.4:7", "", "Ejecutar las pruebas", "EARoot/EA2/EA2/EA4/EA203.htm", "21.png", "103", "105", "", "Activity0","{4BEC78EB-6755-46f4-89A4-4FFE68BD29D4}");
+tocTab[tocTab.length] = new Array("2.2.4:8", "", "Escribir el código fuente", "EARoot/EA2/EA2/EA4/EA204.htm", "21.png", "100", "105", "", "Activity0","{85292523-C419-4868-9B0C-E035333E67BF}");
+tocTab[tocTab.length] = new Array("2.2.4:9", "", "Implementar pruebas de unidad", "EARoot/EA2/EA2/EA4/EA205.htm", "21.png", "107", "105", "", "Activity0","{9CB135FE-E49F-46b0-9F2C-4470ED7597E9}");
