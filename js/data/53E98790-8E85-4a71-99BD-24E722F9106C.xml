@@ -1,0 +1,16 @@
+tocTab[tocTab.length] = new Array("2.2.2:1", "", "    Para cada caso de uso...", "EARoot/EA2/EA2/EA2/EA169.htm", "109.png", "84", "0", "", "ExpansionRegion0","{111FADC3-58F5-4699-A486-4A0765F10057}");
+tocTab[tocTab.length] = new Array("2.2.2:2", "", "Analista", "EARoot/EA2/EA2/EA2/EA170.htm", "6.png", "72", "0", "", "Actor0","{72D12505-EF26-4ab8-9FFA-B4D8167E7B32}");
+tocTab[tocTab.length] = new Array("2.2.2:3", "", "Analista", "EARoot/EA2/EA2/EA2/EA171.htm", "6.png", "79", "0", "", "Actor0","{EDD05C25-B19C-46fa-BA26-A7D3C7AEACCE}");
+tocTab[tocTab.length] = new Array("2.2.2:4", "", "Arquitectura técnica", "EARoot/EA2/EA2/EA2/EA172.htm", "21.png", "86", "0", "", "Activity0","{B18619D6-8063-4037-806A-02CE2929C1D0}");
+tocTab[tocTab.length] = new Array("2.2.2:5", "", "Cliente", "EARoot/EA2/EA2/EA2/EA173.htm", "6.png", "75", "0", "", "Actor0","{90B01FEB-3537-4f49-B587-8CBA6DF62773}");
+tocTab[tocTab.length] = new Array("2.2.2:6", "", "Cliente", "EARoot/EA2/EA2/EA2/EA174.htm", "6.png", "77", "0", "", "Actor0","{ACD14597-8779-4c90-A407-9985E6CB651E}");
+tocTab[tocTab.length] = new Array("2.2.2:7", "", "Comience a formular la arquitectura técnica", "EARoot/EA2/EA2/EA2/EA175.htm", "21.png", "83", "0", "", "Activity0","{7FB2EC93-F39C-42ac-B998-0F2D22103E61}");
+tocTab[tocTab.length] = new Array("2.2.2:8", "", "Desarrollador senior", "EARoot/EA2/EA2/EA2/EA176.htm", "6.png", "78", "0", "", "Actor0","{E1890FF0-164A-4e68-BA8E-5E88E92EA52C}");
+tocTab[tocTab.length] = new Array("2.2.2:9", "", "Desarrollador Senior", "EARoot/EA2/EA2/EA2/EA177.htm", "6.png", "73", "0", "", "Actor0","{B0F34613-0B4C-442c-88C1-040F49040831}");
+tocTab[tocTab.length] = new Array("2.2.2:10", "", "Realice análisis de robustez:", "EARoot/EA2/EA2/EA2/EA178.htm", "21.png", "87", "0", "", "Activity0","{26E1032A-DF2F-4b2f-838E-149D186B259D}");
+tocTab[tocTab.length] = new Array("2.2.2:11", "", "Termine de actualizar el diagrama de clase del nivel de análisis", "EARoot/EA2/EA2/EA2/EA179.htm", "21.png", "80", "0", "", "Activity0","{B4BD3250-0405-489c-973C-758379DEC839}");
+tocTab[tocTab.length] = new Array("2.2.2:12", "", "Usuario final", "EARoot/EA2/EA2/EA2/EA180.htm", "6.png", "76", "0", "", "Actor0","{2E3CA135-E661-4644-B526-AB154CED71D1}");
+tocTab[tocTab.length] = new Array("2.2.2:13", "", "Usuario final", "EARoot/EA2/EA2/EA2/EA181.htm", "6.png", "74", "0", "", "Actor0","{5AD69FAA-3AC5-409b-B65E-A17399BFD09E}");
+tocTab[tocTab.length] = new Array("2.2.2:14", "", "Actualice su modelo de dominio mientras descubre nuevos objetos y atributos", "EARoot/EA2/EA2/EA2/EA182.htm", "104.png", "81", "84", "", "Action0","{8D6C8073-F643-4b89-9CCB-5ACA90EC6D36}");
+tocTab[tocTab.length] = new Array("2.2.2:15", "", "Desambiguar el primer borrador del texto de casos de uso", "EARoot/EA2/EA2/EA2/EA183.htm", "21.png", "85", "84", "", "Activity0","{DDEB2E8F-4F6C-4b4a-ADC3-EDB39A8B616B}");
+tocTab[tocTab.length] = new Array("2.2.2:16", "", "Identifique un primer corte de objetos que ejecutan cada escenario", "EARoot/EA2/EA2/EA2/EA184.htm", "104.png", "82", "84", "", "Action0","{6A2A0DA7-54BD-4e73-A2D9-F088A1E43AFB}");
